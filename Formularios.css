@@ -1,0 +1,5 @@
+.errores{
+    display: none;
+    background: red;
+    position: absolute;
+}
